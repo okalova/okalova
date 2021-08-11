@@ -1,4 +1,4 @@
-- ##👩🏻‍🔬 Hi there, my name is Jennifer.##
+- ## 👩🏻‍🔬 Hi there, my name is Jennifer. ##
 
 - 🧬 I am Ph.D. student studying Molecular & Systems Pharmacology at Emory University.
 - 🔬 My background is in Pharmaceutical Science and during my studies and research I have worked on many projects using a variety of techniques.
